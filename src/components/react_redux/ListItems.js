@@ -6,9 +6,9 @@ import Items from './Items'
 function ListItems(props) {
 
 
-	return (
-           
-           <div> 
+    return (
+
+        <div> 
              <div> 
                <div className = 'level3 '  
                       
@@ -24,13 +24,13 @@ function ListItems(props) {
 
                            />
 
-                 	) } 
+                  ) } 
 
-       	       </div>
-            	</div>
+               </div>
+              </div>
             </div>
 
-		)
+    )
 }
 
 

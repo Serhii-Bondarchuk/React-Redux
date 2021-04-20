@@ -5,4 +5,6 @@ export const DEL_LINE = 'DEL_LINE'
 export const ADD_NUMBER = 'ADD_NUMBER'
 export const CH_PERSENT = 'CH_PERSENT'
 export const LEAVE = 'LEAVE'
-
+export const CHECK_NUMBER = 'CHECK_NUMBER'
+export const FOCUS = 'FOCUS'
+export const BLUR = 'BLUR'
